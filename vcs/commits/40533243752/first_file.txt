@@ -1,0 +1,10 @@
+Arguments for MainKt: config Diane404
+Arguments for MainKt: add first_file.txt
+Arguments for MainKt: add second_file.txt
+Arguments for MainKt: log
+Arguments for MainKt: commit
+Arguments for MainKt: commit "Test message"
+Arguments for MainKt: log
+Arguments for MainKt: commit "Test message2"
+Arguments for MainKt: commit "Test message3"
+Arguments for MainKt: log

@@ -1,0 +1,23 @@
+commit -30456436664
+Author: Diane404
+changed 'a' letter for b in second_file.txt
+
+commit -30456436665
+Author: Diane404
+write 'a' letter in second_file.txt again
+
+commit -30456439672
+Author: Diane404
+write 'a' letter in second_file.txt
+
+commit -30456439769
+Author: Diane404
+write 'a' letter
+
+commit -23822224939
+Author: Diane404
+Test message
+
+commit 40533243752
+Author: Diane404
+Test message3

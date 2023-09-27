@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Version Control System/*
+!/Version Control System/task/
+/Version Control System/task/*
+!/Version Control System/task/src
+!/Version Control System/task/test

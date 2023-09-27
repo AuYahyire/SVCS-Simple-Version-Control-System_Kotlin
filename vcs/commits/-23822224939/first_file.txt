@@ -1,0 +1,4 @@
+Arguments for MainKt: config Marie514
+Arguments for MainKt: add first_file.txt
+Arguments for MainKt: add second_file.txt
+Arguments for MainKt: commit "Test message"
